@@ -16,10 +16,15 @@ Execute o arquivo main.c e compile;
 É recomendado o uso de uma IDE online (Programiz, Online GDB etc.) para rodar o código;
 
 - Casos de Teste:
+  
 x² em [0, 1] → ≈1.333333;
+
 sin(x) em [0, 3.14] → ≈2.000000;
+
 e^x em [0, 1] → ≈1.718282;
+
 e^(-x²) em [-1, 1] → ≈1.493648;
+
 ln(x) em [1, 2.72] → ≈1.000000;
 
 ✅ Resultados:
