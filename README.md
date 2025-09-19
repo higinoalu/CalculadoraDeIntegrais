@@ -2,6 +2,7 @@
 Programa que calcula integrais definidas de funções elementares;
 
 Aluno(a): Arthur Alleluia Higino da Silva;
+
 UFC - Cálculo 2 - 2025.2 - Prof. Renan da Silva Santos;
 
 
