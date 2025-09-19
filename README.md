@@ -10,8 +10,9 @@ Linguagem: C
 Tolerância: 1e-6
 Biblioteca: <math.h>
 Método numérico: Soma de Riemann
-Como Usar:
+- Como Usar:
 Execute o arquivo main.c e compile.
+É recomendado o uso de uma IDE online (Programiz, Online GDB etc.) para rodar o código.
 
 - Casos de Teste:
 x² em [0, 1] → ≈1.333333
