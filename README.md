@@ -21,4 +21,5 @@ e^(-x²) em [-1, 1] → ≈1.493648
 ln(x) em [1, 2.72] → ≈1.000000
 
 ✅ Resultados:
+
 Todos os testes passaram com tolerância de 1e-6
