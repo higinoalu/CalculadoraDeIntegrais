@@ -5,6 +5,8 @@ Aluno(a): Arthur Alleluia Higino da Silva;
 
 UFC - Cálculo 2 - 2025.2 - Prof. Renan da Silva Santos;
 
+- Link do vídeo:
+https://www.youtube.com/watch?v=HdK_ZCKqhDM
 
 - Configuração:
 Linguagem: C;
